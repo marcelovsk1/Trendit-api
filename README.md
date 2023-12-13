@@ -1,1 +1,0 @@
-# Trendit-api
