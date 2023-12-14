@@ -4,171 +4,1325 @@
   "values": [
     [
       "Name",
+      "Description",
       "Date",
       "Location",
       "Price",
+      "Tags",
       "Image",
       "Link"
     ],
     [
-      "Cheap Shots Friday",
-      "Tomorrow • 7:00 PM + 28 more",
-      "901 R. Sherbrooke E",
-      "Free",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F647368699%2F1909933265683%2F1%2Foriginal.20231123-203132?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C9000%2C4500&s=5dfea32ef91127141db27a09e5cff955",
-      "https://www.eventbrite.com/e/cheap-shots-friday-tickets-765391124457?aff=ebdssbdestsearch"
-    ],
-    [
-      "Holiday Joy for Nurses and Patients - Joie pour les infirmières et patients",
-      "Saturday • 1:00 PM",
-      "Montréal General Hospital",
-      "Free",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F657839169%2F254425624175%2F1%2Foriginal.20231213-061955?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C56%2C1366%2C683&s=d4fd76a6694dc4cae261c91d57ebd3cb",
-      "https://www.eventbrite.ca/e/holiday-joy-for-nurses-and-patients-joie-pour-les-infirmieres-et-patients-tickets-776076314147?aff=ebdssbdestsearch"
-    ],
-    [
-      "Rencontre SEO à Montréal",
-      "Tue, Dec 26 •  5:30 PM  + 8 more",
-      "Ping Pong Club",
-      "Free",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F516367379%2F1558667588313%2F1%2Foriginal.20230517-003902?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C575%2C4096%2C2048&s=46f64379f6a17e82c38c8b89b6957f7a",
-      "https://www.eventbrite.ca/e/billets-rencontre-seo-a-montreal-637692875557?aff=ebdssbdestsearch"
-    ],
-    [
-      "Downtown: Game Night - Soirée Jeux (FREE)",
-      "Tomorrow • 8:00 PM + 201 more",
-      "2010 Boul. Saint-Laurent",
-      "Free",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F641145309%2F162497374600%2F1%2Foriginal.20231114-020310?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C210%2C2400%2C1200&s=f12c4ff105c6c3674f3d296f3d989bdb",
-      "https://www.eventbrite.ca/e/billets-downtown-game-night-soiree-jeux-free-758355490687?aff=ebdssbdestsearch"
-    ],
-    [
-      "Fête de la nativité",
-      "Sun, Dec 24 •  10:00 AM",
-      "5307 Montée Saint-Hubert, Saint-Hubert, QC, Canada",
-      "Free",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F653378939%2F1085306413553%2F1%2Foriginal.20231205-053509?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C100%2C1600%2C800&s=a878bdaeabec6699f690609332d024c1",
-      "https://www.eventbrite.com/e/billets-fete-de-la-nativite-772026400747?aff=ebdssbdestsearch"
-    ],
-    [
-      "Le conte de Noël",
-      "Sat, Dec 23 •  2:00 PM",
-      "8420 Bd Lacordaire Montréal H1R3G5",
-      "Free",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F656328469%2F338023120849%2F1%2Foriginal.20231210-195737?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C540&s=29fc90cbe57d28c414180b6ed6a5a565",
-      "https://www.eventbrite.ca/e/billets-le-conte-de-noel-775210524547?aff=ebdssbdestsearch"
-    ],
-    [
-      "CELEBRATION NOEL 2023",
-      "Saturday • 7:00 PM",
-      "931 Bd Crémazie O",
-      "Free",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F656754489%2F230684320285%2F1%2Foriginal.20231211-170522?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C242%2C2000%2C1000&s=8aa426bef887c3233240e82b39a074d3",
-      "https://www.eventbrite.ca/e/billets-celebration-noel-2023-774561172317?aff=ebdssbdestsearch"
-    ],
-    [
-      "Speed découverte amicale",
-      "Wed, Jan 17 •  11:30 AM",
-      "Salle Tata communications (près de la cafétéria) HEC Montréal 3000 chemin de la Côte-Sainte-Catherinme",
-      "Free",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F658258149%2F274950859074%2F1%2Foriginal.20231213-205617?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C70%2C1200%2C600&s=69d309802263f281e34e96fee0d669ff",
-      "https://www.eventbrite.ca/e/billets-speed-decouverte-amicale-777289693397?aff=ebdssbdestsearch"
-    ],
-    [
-      "Soirée Royauté",
-      "Thu, Jan 18 •  7:30 PM",
-      "Centre Evangélique de Laval",
-      "Free",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F656149209%2F183137137623%2F1%2Foriginal.20231210-005918?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C60%2C1920%2C960&s=fbea064746e81aa5cf4b39d2d477b160",
-      "https://www.eventbrite.fr/e/soiree-royaute-tickets-774946635247?aff=ebdssbdestsearch"
-    ],
-    [
-      "Prince Deshawn birthday chill.",
-      "Mon, Jan 15 •  5:00 AM",
-      "248 Rue Constantin, Saint-Eustache, QC, Canada",
-      "Free",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F654194449%2F1927809388703%2F1%2Foriginal.20231206-103137?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C39%2C1154%2C577&s=0bf4cc5914067cdd16e9703e6f2888e7",
-      "https://www.eventbrite.com/e/prince-deshawn-birthday-chill-tickets-772866152467?aff=ebdssbdestsearch"
-    ],
-    [
-      "Neon 90s: A Live Music Tribute to the 1990s @ The Depot (21+)",
-      "Sat, Apr 20 •  9:00 PM",
-      "The Depot",
-      "From $10.00",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F501085099%2F212297423704%2F1%2Foriginal.20230426-033804?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=43%2C0%2C938%2C469&s=d35ee45f039f71776a5e1eaec12ffbf5",
-      "https://www.eventbrite.com/e/neon-90s-a-live-music-tribute-to-the-1990s-the-depot-21-tickets-765866927597?aff=ebdssbdestsearch"
-    ],
-    [
-      "ClubGymEtoile - GymPyjCiné",
-      "Sat, Jan 13 •  6:30 PM  + 4 more",
-      "Club de gymnastique acrobatique l'Etoile",
-      "Free",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F647776889%2F563101511407%2F1%2Foriginal.20231124-193208?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=121%2C0%2C708%2C354&s=cad01a5c16acf8a0ab7aaa0fcb11e25d",
-      "https://www.eventbrite.com/e/billets-clubgymetoile-gympyjcine-761356306207?aff=ebdssbdestsearch"
-    ],
-    [
-      "Soirée pyjama | Pyjama Party",
-      "Fri, Feb 2 •  7:00 PM",
-      "Victoria Hall Community Centre",
-      "Free",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F658200709%2F154266358000%2F1%2Foriginal.20231213-193402?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C185%2C990%2C495&s=13e6ba93a808540daaf482be55dc58c6",
-      "https://www.eventbrite.ca/e/soiree-pyjama-pyjama-party-tickets-777230797237?aff=ebdssbdestsearch"
-    ],
-    [
-      "Easter Bunny Breakfast @ The Depot (All Ages)",
-      "Sat, Mar 30 •  9:00 AM",
-      "The Depot",
-      "From $13.00",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F272530109%2F212297423704%2F1%2Foriginal.20220206-172618?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C132%2C534%2C267&s=fe272ae802d8122443367e0d73ca62ec",
-      "https://www.eventbrite.com/e/easter-bunny-breakfast-the-depot-all-ages-tickets-622160257077?aff=ebdssbdestsearch"
-    ],
-    [
-      "Santa Breakfast with Special Guest Olaf @ The Depot (All Ages) **SOLD OUT**",
-      "Sunday • 9:00 AM",
-      "The Depot",
-      "From $13.00",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F637688199%2F212297423704%2F1%2Foriginal.20231108-134809?w=276&auto=format%2Ccompress&q=75&sharp=10&s=b501ec466a1db50768a304f0c774c27e",
-      "https://www.eventbrite.com/e/santa-breakfast-with-special-guest-olaf-the-depot-all-ages-sold-out-tickets-492102881967?aff=ebdssbdestsearch"
-    ],
-    [
-      "Disney & Bluey Character Breakfast @ The Depot (All Ages) **SOLD OUT**",
-      "Sat, Feb 24 •  9:00 AM",
-      "The Depot",
-      "From $13.00",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F629025869%2F212297423704%2F1%2Foriginal.20231026-124316?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=87%2C0%2C628%2C314&s=1d769641ce81f0bbdc8299abc729d7fa",
-      "https://www.eventbrite.com/e/disney-bluey-character-breakfast-the-depot-all-ages-sold-out-tickets-746046032767?aff=ebdssbdestsearch"
-    ],
-    [
-      "Réveillon du Jour de l'an au Siboire Dépôt",
+      "The Dark Eighties NYE Party in Montréal",
+      "We're dancing our way into 2024 with a full bar inside a church. Costumes, masks, fancy dress and dressing up encouraged!",
       "Sun, Dec 31 •  9:00 PM",
-      "Siboire Dépôt",
-      "From $43.77",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650441119%2F249630397924%2F1%2Foriginal.20231129-181828?w=376&auto=format%2Ccompress&q=75&sharp=10&s=d31fdaa6403fa85ed9c8bb0717dd94f1",
-      "https://www.eventbrite.ca/e/billets-reveillon-du-jour-de-lan-au-siboire-depot-756340965187?aff=ebdssbdestsearch"
+      "New Year's Eve at The Church of St. John the Evangelist",
+      "From $32.99",
+      "#NewYearCelebration #DanceParty #EccentricElegance #MasqueradeBall #FestiveFun #ChurchVenue #CostumeParty #CheersTo2024 #DressUpGala #CelebrationInStyle",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F646834269%2F393208454903%2F1%2Foriginal.20231122-201743?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1640%2C820&s=67c34a99c402122f03212ba53744cd42",
+      "https://www.eventbrite.ca/e/the-dark-eighties-nye-party-in-montreal-tickets-764904699547?aff=ebdssbdestsearch"
     ],
     [
-      "Literary Rendez-Vous - Groupe 1 / Group 1",
-      "Thu, Feb 29 •  2:30 PM  + 3 more",
-      "Bibliothèque publique de Dollard-des-Ormeaux",
+      "REWIND  80s New Wave Dance Party  Holiday Edition",
+      "Holiday Dance Party",
+      "Tomorrow • 10:00 PM",
+      "CABARET BERLIN",
+      "From $11.98",
+      "#80sRewind #NewWaveDanceParty #HolidayEdition #RetroVibes #DanceThroughDecades #FestiveBeats #ThrowbackParty #NeonLights #RadicalRhythms #Celebrating80s",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F641505229%2F458193835418%2F1%2Foriginal.20231114-153635?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C75%2C1920%2C960&s=1f1d823532fb520f84fa7d0f009a01b0",
+      "https://www.eventbrite.ca/e/rewind-80s-new-wave-dance-party-holiday-edition-tickets-758964532347?aff=ebdssbdestsearch"
+    ],
+    [
+      "The Last Dance",
+      "a Disco, Xmas, Farewell to The Diving Bell Dance Party",
+      "Saturday • 8:00 PM",
+      "The Diving Bell Social Club / Club Social Le Scaphandre",
+      "From $17.31",
+      "#DiscoFever #XmasGroove #FarewellDanceParty #DivingBellDisco #FestiveFarewell #DanceIntoTheHolidays #GroovyGoodbye #FunkyXmas #DiscoBallFarewell #JingleAndJive",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F652132349%2F266610754164%2F1%2Foriginal.jpg?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=7ca7e5fc3f4bd8cf3133afe60d59b426",
+      "https://www.eventbrite.ca/e/the-last-dance-tickets-770778849287?aff=ebdssbdestsearch"
+    ],
+    [
+      "TWENTY-SIX",
+      "Once again TWENTY-SIX will cater to all the partygoers that are still looking to celebrate the cheerful holiday spirit",
+      "Tue, Dec 26 •  10:00 PM",
+      "Westwood Bar & Grill",
+      "From $27.96",
+      "#TwentySixParty #HolidayCelebration #FestiveCheer #JoyfulGathering #CelebrationContinues #PartyVibes #CheerfulSpirit #YearEndBash",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F647020389%2F567076420353%2F1%2Foriginal.20231123-031131?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C22%2C1290%2C645&s=ef3c83f53c993a30ad2d44134b7c9326",
+      "https://www.eventbrite.ca/e/twenty-six-tickets-765075901617?aff=ebdssbdestsearch"
+    ],
+    [
+      "Drag Lunch Saloon",
+      "Sunday • 1:00 PM",
+      "Saloon Bistro Bar",
+      "From $24.89",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F594478429%2F374169583221%2F1%2Foriginal.20230910-201101?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=49c95c6db3cd8d2cb3c82888eb8a5311",
+      "https://www.eventbrite.ca/e/drag-lunch-saloon-tickets-716796988087?aff=ebdssbdestsearch"
+    ],
+    [
+      "Le Gee Masquerade Party",
+      "Saturday • 10:00 PM",
+      "998 Rue Notre Dame",
+      "From $30.75",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F656782839%2F1884791194583%2F1%2Foriginal.20231211-174529?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C318%2C702%2C351&s=6e959f5bb3105889aa78a76e513c6c49",
+      "https://www.eventbrite.com/e/le-gee-masquerade-party-tickets-753603216507?aff=ebdssbdestsearch"
+    ],
+    [
+      "MONTREAL PRE NEW YEARS PARTY @ JET NIGHTCLUB | OFFICIAL MEGA PARTY!",
+      "Sat, Dec 30 •  10:00 PM",
+      "Jet Night Club",
+      "From $12.58",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650095359%2F77837906803%2F1%2Foriginal.20231129-070521?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=3ec39f7a9e20ebf0d856d1dc9183febd",
+      "https://www.eventbrite.ca/e/montreal-pre-new-years-party-jet-nightclub-official-mega-party-tickets-768827382397?aff=ebdssbdestsearch"
+    ],
+    [
+      "RESOLUTIONS",
+      "Mon, Jan 1 •  8:00 PM",
+      "777 Blvd Robert-Bourassa",
+      "From $80.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F630869749%2F390016186357%2F1%2Foriginal.20231030-014447?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=4%2C6%2C824%2C412&s=6e99309626162ba185f21b8e57d95bea",
+      "https://www.eventbrite.ca/e/billets-resolutions-748189905147?aff=ebdssbdestsearch"
+    ],
+    [
+      "BEST OF BOTH WORLDS - THE LAST AFRO-LATIN PARTY  - WED 27TH  DEC @LA PORTE",
+      "Wed, Dec 27 •  10:00 PM",
+      "LA PORTE",
+      "From $9.31",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F639049419%2F351478733395%2F1%2Foriginal.20231110-021750?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C17%2C1280%2C640&s=534a68dd679cc18213985ed0ff8fb5ea",
+      "https://www.eventbrite.ca/e/best-of-both-worlds-the-last-afro-latin-party-wed-27th-dec-la-porte-tickets-755940437197?aff=ebdssbdestsearch"
+    ],
+    [
+      "MONTREAL PRE NEW YEARS PARTY @ JET NIGHTCLUB | OFFICIAL MEGA PARTY!",
+      "Sat, Dec 30 •  10:00 PM",
+      "Jet Night Club",
+      "From $12.58",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650096979%2F77837906803%2F1%2Foriginal.20231129-071601?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=b1505186ba95521bfa5b0ac72ef0a3c2",
+      "https://www.eventbrite.ca/e/montreal-pre-new-years-party-jet-nightclub-official-mega-party-tickets-768831905927?aff=ebdssbdestsearch"
+    ],
+    [
+      "PROJECT NYE",
+      "Sun, Dec 31 •  8:00 PM",
+      "Salle De L’Est",
+      "From $40.12",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F634818969%2F1354621957633%2F1%2Foriginal.20231103-210659?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C540&s=b48784ce697f151866f8353463d0415d",
+      "https://www.eventbrite.ca/e/project-nye-tickets-751838096987?aff=ebdssbdestsearch"
+    ],
+    [
+      "Family Paint Party",
+      "Wed, Dec 20 •  7:00 PM",
+      "Restaurant Laflamme",
+      "From $41.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F656623369%2F292898063203%2F1%2Foriginal.20231211-140114?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1000%2C500&s=b3d18198c312d086f9b761ebf54c3c05",
+      "https://www.eventbrite.com/e/family-paint-party-tickets-744539396377?aff=ebdssbdestsearch"
+    ],
+    [
+      "MONTREAL UGLY SWEATER PARTY @ JET NIGHTCLUB | OFFICIAL MEGA PARTY!",
+      "Sat, Dec 23 •  10:00 PM",
+      "Jet Night Club",
+      "From $13.54",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650087909%2F77837906803%2F1%2Foriginal.20231129-062813?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=44%2C116%2C1228%2C614&s=5cdb8150cd9fe3d0e64441281d183f7e",
+      "https://www.eventbrite.ca/e/montreal-ugly-sweater-party-jet-nightclub-official-mega-party-tickets-768825546907?aff=ebdssbdestsearch"
+    ],
+    [
+      "MONTREAL UGLY SWEATER PARTY @ JET NIGHTCLUB | OFFICIAL MEGA PARTY!",
+      "Sat, Dec 23 •  10:00 PM",
+      "Jet Night Club",
+      "From $13.54",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650086339%2F77837906803%2F1%2Foriginal.20231129-062813?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=44%2C116%2C1228%2C614&s=76e3247dcae3d1a2e1faba8c53bb1b78",
+      "https://www.eventbrite.ca/e/montreal-ugly-sweater-party-jet-nightclub-official-mega-party-tickets-768729138547?aff=ebdssbdestsearch"
+    ],
+    [
+      "CONCORDIA UNIVERSITY PRE NEW YEARS PARTY",
+      "Sat, Dec 30 •  10:00 PM",
+      "Jet Night Club",
+      "From $13.54",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650098319%2F77837906803%2F1%2Foriginal.20231129-072250?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=50badc69b6347ac3d491babc966fd697",
+      "https://www.eventbrite.ca/e/concordia-university-pre-new-years-party-tickets-768832096497?aff=ebdssbdestsearch"
+    ],
+    [
+      "MONTREAL UGLY SWEATER PARTY @ JET NIGHTCLUB | OFFICIAL MEGA PARTY!",
+      "Sat, Dec 23 •  10:00 PM",
+      "Jet Night Club",
+      "From $13.54",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650088369%2F77837906803%2F1%2Foriginal.20231129-063725?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C63%2C796%2C398&s=41c2b9928960bfbe9e4cce0df574c587",
+      "https://www.eventbrite.ca/e/montreal-ugly-sweater-party-jet-nightclub-official-mega-party-tickets-768825556937?aff=ebdssbdestsearch"
+    ],
+    [
+      "MONTREAL PRE NEW YEARS PARTY @ JET NIGHTCLUB | OFFICIAL MEGA PARTY!",
+      "Sat, Dec 30 •  10:00 PM",
+      "Jet Night Club",
+      "From $12.58",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650096729%2F77837906803%2F1%2Foriginal.20231129-070521?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=20389271c64bb1ea5a0fb2a086fff412",
+      "https://www.eventbrite.ca/e/montreal-pre-new-years-party-jet-nightclub-official-mega-party-tickets-768831885867?aff=ebdssbdestsearch"
+    ],
+    [
+      "TEMPTATION Fridays",
+      "Tomorrow • 10:30 PM + 15 more",
+      "Tropikàl",
+      "From $0.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F653302529%2F733265305903%2F1%2Foriginal.20231205-020816?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C0%2C1078%2C539&s=954300a354bbae63a463cc0c91bb2bd1",
+      "https://www.eventbrite.ca/e/billets-temptation-fridays-749622299477?aff=ebdssbdestsearch"
+    ],
+    [
+      "KEFI FIT Annual Party",
+      "Fri, Jan 19 •  7:00 PM",
+      "Embassy Plaza",
+      "From $86.53",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F614187789%2F240263335281%2F1%2Foriginal.20231005-185710?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C228%2C1654%2C827&s=3e6d35446744d84e39cda1c277bde62c",
+      "https://www.eventbrite.ca/e/kefi-fit-annual-party-tickets-732971315937?aff=ebdssbdestsearch"
+    ],
+    [
+      "NYE Party 2023",
+      "Sun, Dec 31 •  10:00 PM",
+      "263 Rue de la Commune E",
+      "From $35.89",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650740869%2F294276161836%2F1%2Foriginal.20231130-022538?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C46%2C1024%2C512&s=c94c7e63a41d613d5745ae7c1eaeaefd",
+      "https://www.eventbrite.ca/e/nye-party-2023-tickets-769378982247?aff=ebdssbdestsearch"
+    ],
+    [
+      "Paint Nite: The Original Paint and Sip Party",
+      "Tue, Feb 13 •  7:00 PM",
+      "Restaurant Laflamme",
+      "From $41.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F647036349%2F292898063203%2F1%2Foriginal.20231123-040613?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1000%2C500&s=ebfc7400990a9ae1519bb1c4dea9c45d",
+      "https://www.eventbrite.com/e/paint-nite-the-original-paint-and-sip-party-tickets-765091608597?aff=ebdssbdestsearch"
+    ],
+    [
+      "CONCORDIA UNIVERSITY UGLY SWEATER PARTY",
+      "Sat, Dec 23 •  10:00 PM",
+      "Jet Night Club",
+      "From $13.54",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650100869%2F77837906803%2F1%2Foriginal.20231129-073514?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=60%2C119%2C1192%2C596&s=a7bd30f4ff7792143baebfdba740b0f1",
+      "https://www.eventbrite.ca/e/concordia-university-ugly-sweater-party-tickets-768834664177?aff=ebdssbdestsearch"
+    ],
+    [
+      "Family Paint Party",
+      "Thu, Dec 28 •  5:00 PM",
+      "Academie Des Merveilles Preschool",
+      "From $42.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F651460399%2F292898063203%2F1%2Foriginal.20231201-040337?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C900%2C450&s=6c2b966111b297d6bf61b585e64e5400",
+      "https://www.eventbrite.com/e/family-paint-party-tickets-751364410177?aff=ebdssbdestsearch"
+    ],
+    [
+      "SELVA - A NIGHT OF HOUSE AND FUNK - FRIDAY DECEMBER 22ND AT  DON B COMBER",
+      "Fri, Dec 22 •  10:00 PM",
+      "Don B Comber",
+      "From $11.98",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650725519%2F351478733395%2F1%2Foriginal.20231130-013947?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=f12b43afbabbd498ae9ea68fcb5717aa",
+      "https://www.eventbrite.ca/e/selva-a-night-of-house-and-funk-friday-december-22nd-at-don-b-comber-tickets-769368230087?aff=ebdssbdestsearch"
+    ],
+    [
+      "MCGILL UNIVERSITY PRE NEW YEARS PARTY",
+      "Sat, Dec 30 •  10:00 PM",
+      "Jet Night Club",
+      "From $13.54",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650098339%2F77837906803%2F1%2Foriginal.20231129-072254?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=46500162ee0cadf02991a071c5789555",
+      "https://www.eventbrite.ca/e/mcgill-university-pre-new-years-party-tickets-768832106527?aff=ebdssbdestsearch"
+    ],
+    [
+      "Paint Nite: The Original Paint and Sip Party",
+      "Wed, Jan 10 •  7:00 PM",
+      "Kirkland Resto Bar",
+      "From $42.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F634703999%2F292898063203%2F1%2Foriginal.20231103-184419?w=400&auto=format%2Ccompress&q=75&sharp=10&s=b887cb5b6db2ecaccfb3a2566ae0de99",
+      "https://www.eventbrite.com/e/paint-nite-the-original-paint-and-sip-party-tickets-721542953397?aff=ebdssbdestsearch"
+    ],
+    [
+      "MONTREAL END OF SEMESTER  PARTY @ JET NIGHTCLUB | OFFICIAL MEGA PARTY!",
+      "Fri, Dec 22 •  10:00 PM",
+      "Jet Night Club",
+      "From $13.54",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F649919319%2F77837906803%2F1%2Foriginal.20231128-231644?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=fb8d62f9c31fd953a565564c32d91698",
+      "https://www.eventbrite.ca/e/montreal-end-of-semester-party-jet-nightclub-official-mega-party-tickets-768687764797?aff=ebdssbdestsearch"
+    ],
+    [
+      "The PRIVILEGE Night Party",
+      "Sat, Dec 30 •  10:00 PM",
+      "Restaurant Fogo Euro-Lounge",
+      "From $48.31",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F654047989%2F191625977440%2F1%2Foriginal.20231206-021111?w=400&auto=format%2Ccompress&q=75&sharp=10&s=9a1a782d650860bfde0faca0352cc781",
+      "https://www.eventbrite.ca/e/the-privilege-night-party-tickets-749605278567?aff=ebdssbdestsearch"
+    ],
+    [
+      "MONTREAL END OF SEMESTER  PARTY @ JET NIGHTCLUB | OFFICIAL MEGA PARTY!",
+      "Fri, Dec 22 •  10:00 PM",
+      "Jet Night Club",
+      "From $13.54",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F649913629%2F77837906803%2F1%2Foriginal.20231128-224133?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=83%2C8%2C880%2C440&s=db77a90cdf5d69dea2ec15733927aeec",
+      "https://www.eventbrite.ca/e/montreal-end-of-semester-party-jet-nightclub-official-mega-party-tickets-768669189237?aff=ebdssbdestsearch"
+    ],
+    [
+      "MONTREAL END OF SEMESTER  PARTY @ JET NIGHTCLUB | OFFICIAL MEGA PARTY!",
+      "Fri, Dec 22 •  10:00 PM",
+      "Jet Night Club",
+      "From $13.54",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F649913629%2F77837906803%2F1%2Foriginal.20231128-224133?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=83%2C8%2C880%2C440&s=db77a90cdf5d69dea2ec15733927aeec",
+      "https://www.eventbrite.ca/e/montreal-end-of-semester-party-jet-nightclub-official-mega-party-tickets-768687714647?aff=ebdssbdestsearch"
+    ],
+    [
+      "MCGILL UNIVERSITY UGLY SWEATER PARTY",
+      "Sat, Dec 23 •  10:00 PM",
+      "Jet Night Club",
+      "From $13.54",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650100889%2F77837906803%2F1%2Foriginal.20231129-073528?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=59%2C125%2C1206%2C603&s=72c0d862f5eb0c51313992110d07dc0a",
+      "https://www.eventbrite.ca/e/mcgill-university-ugly-sweater-party-tickets-768834654147?aff=ebdssbdestsearch"
+    ],
+    [
+      "Paint Nite: The Original Paint and Sip Party",
+      "Sat, Jan 20 •  5:00 PM",
+      "Academie Des Merveilles Preschool",
+      "From $39.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F653881789%2F292898063203%2F1%2Foriginal.20231205-210118?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1000%2C500&s=f4125e02367ad634bd2cd03d727c5c3c",
+      "https://www.eventbrite.com/e/paint-nite-the-original-paint-and-sip-party-tickets-751248383137?aff=ebdssbdestsearch"
+    ],
+    [
+      "NYE DISCO COUNTDOWN ! w/ Walla P, Kobal, Fly P",
+      "Sun, Dec 31 •  9:30 PM",
+      "4602 Boul. Saint-Laurent",
+      "From $27.96",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F653484899%2F545353218981%2F1%2Foriginal.20231205-113206?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C37%2C3068%2C1534&s=afe2948958c1b72b6b0b5c5899c29bba",
+      "https://www.eventbrite.ca/e/nye-disco-countdown-w-walla-p-kobal-fly-p-tickets-772147352517?aff=ebdssbdestsearch"
+    ],
+    [
+      "Paint Nite: The Original Paint and Sip Party",
+      "Wed, Feb 14 •  7:00 PM",
+      "Loulou Céramique",
+      "From $43.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F642555349%2F292898063203%2F1%2Foriginal.20231115-200549?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1000%2C500&s=f25e095e738f4c4a075830b00f58c778",
+      "https://www.eventbrite.com/e/paint-nite-the-original-paint-and-sip-party-tickets-759924513677?aff=ebdssbdestsearch"
+    ],
+    [
+      "EMPIRE OF PERREO - THURSDAY DECEMBER 28TH AT PALAZO NIGHTCLUB",
+      "Thu, Dec 28 •  10:00 PM",
+      "Palazo",
+      "From $11.98",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F651435499%2F351478733395%2F1%2Foriginal.20231201-024601?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1228%2C614&s=f3278b6d3a4a832ab08741313f842fad",
+      "https://www.eventbrite.ca/e/empire-of-perreo-thursday-december-28th-at-palazo-nightclub-tickets-770045305237?aff=ebdssbdestsearch"
+    ],
+    [
+      "UNIVERSITY OF MONTREAL UGLY SWEATER PARTY",
+      "Sat, Dec 23 •  10:00 PM",
+      "Jet Night Club",
+      "From $13.54",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650100959%2F77837906803%2F1%2Foriginal.20231129-073540?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=36%2C115%2C1206%2C603&s=e643262d0379addf0773f00765c7fa69",
+      "https://www.eventbrite.ca/e/university-of-montreal-ugly-sweater-party-tickets-768834644117?aff=ebdssbdestsearch"
+    ],
+    [
+      "Family Paint Party",
+      "Sat, Jan 20 •  1:00 PM",
+      "Les 3 Brasseurs Pointe-Claire",
+      "From $39.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F655018929%2F292898063203%2F1%2Foriginal.20231207-160139?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C900%2C450&s=4cc746e442f4301fe5058104ea87f98a",
+      "https://www.eventbrite.com/e/family-paint-party-tickets-768472210067?aff=ebdssbdestsearch"
+    ],
+    [
+      "Paint Nite: The Original Paint and Sip Party",
+      "Mon, Feb 12 •  7:00 PM",
+      "3 Amigos Resto-Bar",
+      "From $43.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F642553299%2F292898063203%2F1%2Foriginal.20231115-200339?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1000%2C500&s=f6a09dac4362c0c9e5bbf3e79aed0fc5",
+      "https://www.eventbrite.com/e/paint-nite-the-original-paint-and-sip-party-tickets-751221021297?aff=ebdssbdestsearch"
+    ],
+    [
+      "Family Paint Party",
+      "Tue, Dec 26 •  7:00 PM",
+      "Loulou Céramique",
+      "From $39.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F656063349%2F292898063203%2F1%2Foriginal.20231209-190158?w=400&auto=format%2Ccompress&q=75&sharp=10&s=0afa9e88c711e73332b7f4ce9410bd82",
+      "https://www.eventbrite.com/e/family-paint-party-tickets-755757951377?aff=ebdssbdestsearch"
+    ],
+    [
+      "MONTREAL BURN THE BOOKS 2023 @ JET NIGHTCLUB | OFFICIAL MEGA PARTY!",
+      "Fri, Dec 22 •  10:00 PM",
+      "Jet Night Club",
+      "From $12.58",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F486852049%2F77837906803%2F1%2Foriginal.20230406-123428?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C5%2C938%2C469&s=e4b9e6b08436f2e4d20c8af423101702",
+      "https://www.eventbrite.ca/e/montreal-burn-the-books-2023-jet-nightclub-official-mega-party-tickets-768699670407?aff=ebdssbdestsearch"
+    ],
+    [
+      "Millionaire Invest Strategy By Deepak Kaltari",
+      "Saturday • 1:00 PM GMT-3",
+      "Saturday • 1:00 PM GMT-3",
       "Free",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F644308719%2F543654573115%2F1%2Foriginal.20231118-150222?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C119%2C2664%2C1332&s=23e233a0d6c64d1f240d0351a322f108",
-      "https://www.eventbrite.ca/e/literary-rendez-vous-groupe-1-group-1-tickets-753799724267?aff=ebdssbdestsearch"
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F658241719%2F1936217727933%2F1%2Foriginal.20231213-065832?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C32%2C1024%2C512&s=a2ace914b2ff7d741de97f9157ae58d2",
+      "https://www.eventbrite.com/e/millionaire-invest-strategy-by-deepak-kaltari-tickets-777273916207?aff=ebdssbdestsearch"
     ],
     [
-      "Party de Noël Bellemare 2023",
-      "Saturday • 5:00 PM",
-      "Hôtel Delta Trois-Rivières",
-      "From $5.00",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F621579369%2F328575289757%2F1%2Foriginal.20231016-174315?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=47%2C0%2C1826%2C913&s=e8423c3153b7ce857543f2613c72c2eb",
-      "https://www.eventbrite.ca/e/billets-party-de-noel-bellemare-2023-735461464037?aff=ebdssbdestsearch"
+      "Montreal Improv's Holiday Party!",
+      "Tomorrow • 10:30 PM",
+      "Impro Montréal / Montreal Improv",
+      "Free",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F646824249%2F574778927101%2F1%2Foriginal.20231122-200327?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=f128a29c52f05231200b66100045ea65",
+      "https://www.eventbrite.ca/e/montreal-improvs-holiday-party-tickets-764894659517?aff=ebdssbdestsearch"
     ],
     [
-      "Open Mic Live | 3rd Floor Comedy Club",
-      "Monday • 8:00 PM + 17 more",
+      "BERLIN TECHNO - Boxing Day",
+      "Tue, Dec 26 •  10:00 PM",
+      "Cabaret Berlin",
+      "From $17.31",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F649672999%2F193233980215%2F1%2Foriginal.20231128-180239?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C62%2C1920%2C960&s=efc8e1eabc247e30f293cd60a29be1cd",
+      "https://www.eventbrite.ca/e/berlin-techno-boxing-day-tickets-768469020527?aff=ebdssbdestsearch"
+    ],
+    [
+      "Celebration",
+      "Tue, Dec 26 •  9:00 PM",
+      "Restaurant Pangea",
+      "From $22.63",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650050599%2F68949742143%2F1%2Foriginal.20231129-041930?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C8640%2C4320&s=01cd86a494481c10ce5e2c7bcf6d7a24",
+      "https://www.eventbrite.ca/e/celebration-tickets-768228270437?aff=ebdssbdestsearch"
+    ],
+    [
+      "Paint Nite: The Original Paint and Sip Party",
+      "Tue, Jan 23 •  7:00 PM",
+      "Burgundy Lion Pub",
+      "From $39.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F652992019%2F292898063203%2F1%2Foriginal.20231204-180209?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1000%2C500&s=aabee202694a29990abd7d9b8192dae0",
+      "https://www.eventbrite.com/e/paint-nite-the-original-paint-and-sip-party-tickets-757998944247?aff=ebdssbdestsearch"
+    ],
+    [
+      "Paint Nite: The Original Paint and Sip Party",
+      "Wed, Dec 27 •  7:00 PM",
+      "Les 3 Brasseurs Pointe-Claire",
+      "From $39.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F656878349%2F292898063203%2F1%2Foriginal.20231211-200131?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1000%2C500&s=d83cc779e1b710e109d42036b9a6e3b2",
+      "https://www.eventbrite.com/e/paint-nite-the-original-paint-and-sip-party-tickets-752141073197?aff=ebdssbdestsearch"
+    ],
+    [
+      "MONTREAL BURN THE BOOKS 2023 @ JET NIGHTCLUB | OFFICIAL MEGA PARTY!",
+      "Fri, Dec 22 •  10:00 PM",
+      "Jet Night Club",
+      "From $12.58",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F649949999%2F77837906803%2F1%2Foriginal.20231129-001138?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=360%2C236%2C1792%2C896&s=53ac1b4a692e8b6899f69d6d11d7dc4b",
+      "https://www.eventbrite.ca/e/montreal-burn-the-books-2023-jet-nightclub-official-mega-party-tickets-768707754587?aff=ebdssbdestsearch"
+    ],
+    [
+      "Diva Royale Drag Queen Dinner Shows & Diva Drag Brunch Shows Montreal",
+      "Fri, Dec 22 •  7:00 PM  + 194 more",
+      "Diva Royale Drag Queen Show",
+      "From $47.79",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F335913839%2F1082206847413%2F1%2Foriginal.20220815-221630?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C600%2C300&s=b78915e8f87ad0bda9de7855885fb686",
+      "https://www.eventbrite.com/e/diva-royale-drag-queen-dinner-shows-diva-drag-brunch-shows-montreal-tickets-396816347377?aff=ebdssbdestsearch"
+    ],
+    [
+      "Paint Nite: The Original Paint and Sip Party",
+      "Tue, Jan 30 •  7:30 PM",
+      "Le Cask Pub et Grille",
+      "From $42.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F634856339%2F292898063203%2F1%2Foriginal.20231103-220630?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1000%2C500&s=21678018022e8dff32e7d9d437c6f976",
+      "https://www.eventbrite.com/e/paint-nite-the-original-paint-and-sip-party-tickets-744542325137?aff=ebdssbdestsearch"
+    ],
+    [
+      "MONTREAL BURN THE BOOKS 2023 @ JET NIGHTCLUB | OFFICIAL MEGA PARTY!",
+      "Fri, Dec 22 •  10:00 PM",
+      "Jet Night Club",
+      "From $12.58",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F486852049%2F77837906803%2F1%2Foriginal.20230406-123428?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C5%2C938%2C469&s=e4b9e6b08436f2e4d20c8af423101702",
+      "https://www.eventbrite.ca/e/montreal-burn-the-books-2023-jet-nightclub-official-mega-party-tickets-768707714467?aff=ebdssbdestsearch"
+    ],
+    [
+      "Montréal CHEERSFEST! Holiday and Movember Edition",
+      "Sat, Dec 30 •  1:30 PM",
+      "Montreal",
+      "From $13.18",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F639349819%2F1229048906583%2F1%2Foriginal.20231110-153518?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C540&s=5bd85c1056e9933123ec84fa340b7c6f",
+      "https://www.eventbrite.ca/e/montreal-cheersfest-holiday-and-movember-edition-tickets-756258137447?aff=ebdssbdestsearch"
+    ],
+    [
+      "NEW YEAR PARTY | UA Eddition",
+      "Fri, Dec 29 •  7:00 PM",
+      "264 Sainte-Catherine O",
+      "From $22.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F658101079%2F1279892356723%2F1%2Foriginal.20231213-170658?w=355&auto=format%2Ccompress&q=75&sharp=10&s=ac58b7b4193cf8066cf8c779ca92d684",
+      "https://www.eventbrite.ca/e/new-year-party-ua-eddition-tickets-777032865217?aff=ebdssbdestsearch"
+    ],
+    [
+      "WHITE PARTY MR PABLO",
+      "Saturday • 10:00 PM",
+      "4121 42e Rue, Montréal, QC, Canada",
+      "From $22.63",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F630709169%2F954486248023%2F1%2Foriginal.20231029-174108?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=efd4a8c1c31bba9cd44a209132febab0",
+      "https://www.eventbrite.com/e/white-party-mr-pablo-tickets-748040578507?aff=ebdssbdestsearch"
+    ],
+    [
+      "Christmas Party | Asian Themed Christmas in Beijing | Montreal",
+      "Thu, Dec 21 •  9:30 PM",
+      "MajesThé Bistro Bar, Boulevard Robert-Bourassa, Montreal, QC, Canada",
+      "From $24.89",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F654668719%2F1396544807643%2F1%2Foriginal.20231206-234248?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C41%2C1350%2C675&s=b31b95555c1ccb0121dedf699f3f521c",
+      "https://www.eventbrite.ca/e/christmas-party-asian-themed-christmas-in-beijing-montreal-tickets-773252307467?aff=ebdssbdestsearch"
+    ],
+    [
+      "UNIVERSITY OF MONTREAL PRE NEW YEARS PARTY",
+      "Sat, Dec 30 •  10:00 PM",
+      "Jet Night Club",
+      "From $13.54",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650098369%2F77837906803%2F1%2Foriginal.20231129-072258?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=de4a29a343a3b7201d7ba0c50e573314",
+      "https://www.eventbrite.ca/e/university-of-montreal-pre-new-years-party-tickets-768832126587?aff=ebdssbdestsearch"
+    ],
+    [
+      "CONCORDIA UNIVERSITY END OF SEMESTER  PARTY",
+      "Fri, Dec 22 •  10:00 PM",
+      "Jet Night Club",
+      "From $13.54",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F649913629%2F77837906803%2F1%2Foriginal.20231128-224133?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=83%2C8%2C880%2C440&s=db77a90cdf5d69dea2ec15733927aeec",
+      "https://www.eventbrite.ca/e/concordia-university-end-of-semester-party-tickets-768691255237?aff=ebdssbdestsearch"
+    ],
+    [
+      "Dave East - SOIRÉE PABLO",
+      "Monday • 8:00 PM",
+      "The Rouge Bar",
+      "From $60.03",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F626009149%2F1856398970563%2F1%2Foriginal.20231022-183755?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C81%2C584%2C292&s=21dfa382df36ba1f588b04701e262e52",
+      "https://www.eventbrite.ca/e/dave-east-soiree-pablo-tickets-743197663217?aff=ebdssbdestsearch"
+    ],
+    [
+      "NYE Party 2024",
+      "Sat, Dec 30 •  9:00 PM",
+      "Karina's Club Lounge",
+      "From $22.63",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F652365379%2F288883817816%2F1%2Foriginal.20231203-105125?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C191%2C3072%2C1536&s=f3cb3e9aa5cc82659c966ff8383b78b6",
+      "https://www.eventbrite.ca/e/nye-party-2024-tickets-771056178787?aff=ebdssbdestsearch"
+    ],
+    [
+      "AFRO JUNGLE - CARIBBEAN VIBES - SATURDAY DECEMBER 16TH MUZIQUE NIGHTCLUB",
+      "Saturday • 10:00 PM",
+      "Muzique",
+      "From $11.98",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F649214539%2F351478733395%2F1%2Foriginal.20231128-012403?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=5f30a91034057b850f8dcff5c039c174",
+      "https://www.eventbrite.ca/e/afro-jungle-caribbean-vibes-saturday-december-16th-muzique-nightclub-tickets-767924481797?aff=ebdssbdestsearch"
+    ],
+    [
+      "Balls Deep Disco Montréal!",
+      "Sat, Feb 3 •  10:00 PM",
+      "Cabaret Berlin",
+      "From $13.18",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650460319%2F888500569093%2F1%2Foriginal.20231129-184105?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1248%2C624&s=963b5b26b480501c58439ee78226cabc",
+      "https://www.eventbrite.com/e/balls-deep-disco-montreal-tickets-769140619297?aff=ebdssbdestsearch"
+    ],
+    [
+      "Paint Nite: The Original Paint and Sip Party",
+      "Tue, Jan 30 •  7:00 PM",
+      "Barbies Resto Bar & Grill",
+      "From $39.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F649679369%2F292898063203%2F1%2Foriginal.20231128-180901?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1000%2C500&s=0bb6d90451c971d31641ebba5dc19882",
+      "https://www.eventbrite.com/e/paint-nite-the-original-paint-and-sip-party-tickets-768473193007?aff=ebdssbdestsearch"
+    ],
+    [
+      "Bowiemas Dance Party at Bar Le Ritz",
+      "Tomorrow • 11:00 PM",
+      "Bar Le Ritz PDB",
+      "From $9.90",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F655178289%2F393208454903%2F1%2Foriginal.20231207-194349?w=355&auto=format%2Ccompress&q=75&sharp=10&s=397ffd4f56e5e1470830e0c13d978e4b",
+      "https://www.eventbrite.ca/e/bowiemas-dance-party-at-bar-le-ritz-tickets-773920937357?aff=ebdssbdestsearch"
+    ],
+    [
+      "We Are Afro Party @Riverside",
+      "Saturday • 10:00 PM",
+      "Riverside St-Henri",
+      "From $27.96",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F652193529%2F1006750917543%2F1%2Foriginal.20231202-191620?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C28%2C1200%2C600&s=367f592afd4b6ae15962a2e0d6692959",
+      "https://www.eventbrite.ca/e/we-are-afro-party-riverside-tickets-767915685487?aff=ebdssbdestsearch"
+    ],
+    [
+      "Paint Nite: The Original Paint and Sip Party",
+      "Wed, Jan 24 •  7:00 PM",
+      "Ye Olde Orchard Downtown",
+      "From $39.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F649626199%2F292898063203%2F1%2Foriginal.20231128-170850?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1000%2C500&s=e79186fedeb1b28f646fd62d4322a22b",
+      "https://www.eventbrite.com/e/paint-nite-the-original-paint-and-sip-party-tickets-768435480207?aff=ebdssbdestsearch"
+    ],
+    [
+      "NOSTALGIA - NEW YEAR'S DAY CELEBRATION - JANUARY 1ST  2024 AT CLUB LA PORTE",
+      "Mon, Jan 1 •  10:00 PM",
+      "LA PORTE",
+      "From $0.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F654016389%2F351478733395%2F1%2Foriginal.20231206-005550?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=40fa60f337f3f3c22e684b48e02fb3ee",
+      "https://www.eventbrite.ca/e/nostalgia-new-years-day-celebration-january-1st-2024-at-club-la-porte-tickets-772609344347?aff=ebdssbdestsearch"
+    ],
+    [
+      "Montreal Comedy ( UNBALANCED ) at Comedy Club Montreal (10:30)",
+      "Thu, Dec 28 •  10:30 PM",
+      "Deli Planet Resto-Bar inside Montreal's Gare Centrale (Central Station)",
+      "From $13.77",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650652679%2F261342116066%2F1%2Foriginal.20231129-230604?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=76f2aa9ce8b8a19d5559eeeee0f08299",
+      "https://www.eventbrite.ca/e/montreal-comedy-unbalanced-at-comedy-club-montreal-1030-tickets-769279605007?aff=ebdssbdestsearch"
+    ],
+    [
+      "Paint Nite: The Original Paint and Sip Party",
+      "Wed, Dec 27 •  7:00 PM",
+      "Lord William Pub",
+      "From $39.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F656110389%2F292898063203%2F1%2Foriginal.20231209-220221?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1000%2C500&s=4182432f644bdcb75adb7fa02c06d964",
+      "https://www.eventbrite.com/e/paint-nite-the-original-paint-and-sip-party-tickets-768434647717?aff=ebdssbdestsearch"
+    ],
+    [
+      "Booze N' Brush Next to Naked Sip n' Paint Calgary - Exotic Male Model",
+      "Sat, Dec 23 •  4:00 PM  + 235 more",
+      "Booze N' Brush Sip N' Paint Calgary",
+      "From $49.26",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F505084619%2F1082206847413%2F1%2Foriginal.20230501-223933?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=337d7d53b5a061e4f49161965edaa925",
+      "https://www.eventbrite.com/e/booze-n-brush-next-to-naked-sip-n-paint-calgary-exotic-male-model-tickets-628813236317?aff=ebdssbdestsearch"
+    ],
+    [
+      "Party de fin de session",
+      "Fri, Dec 22 •  10:00 PM",
+      "Jet Night Club",
+      "From $17.31",
+      "data:image/png;base64,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",
+      "https://www.eventbrite.com/e/billets-party-de-fin-de-session-774938169927?aff=ebdssbdestsearch"
+    ],
+    [
+      "NYE Party",
+      "Sun, Dec 31 •  7:30 PM",
+      "54 Bd de la Cité-des-Jeunes",
+      "From $89.31",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F652047489%2F388916288593%2F1%2Foriginal.20231202-054952?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C87%2C1640%2C820&s=1469f4126b852bdef862d88bcf22c8a0",
+      "https://www.eventbrite.ca/e/nye-party-tickets-770689060727?aff=ebdssbdestsearch"
+    ],
+    [
+      "Holiday Sip & Shop",
+      "Sunday • 11:00 AM",
+      "Laval, QC, Canada",
+      "Free",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F646950309%2F543674137111%2F1%2Foriginal.20231122-233935?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C256%2C1058%2C529&s=ca2c0995d9dff58d3e68697c7f73ae0b",
+      "https://www.eventbrite.ca/e/holiday-sip-shop-tickets-764435887317?aff=ebdssbdestsearch"
+    ],
+    [
+      "Paint Nite: The Original Paint and Sip Party",
+      "Thu, Dec 21 •  7:00 PM",
+      "Ye Olde Orchard Châteauguay",
+      "From $39.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F655107859%2F292898063203%2F1%2Foriginal.20231207-180126?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1000%2C500&s=ec08e6ce32235d34579c63163a5c6f32",
+      "https://www.eventbrite.com/e/paint-nite-the-original-paint-and-sip-party-tickets-718670963197?aff=ebdssbdestsearch"
+    ],
+    [
+      "AFROTONIK DANCE PARTY",
+      "Saturday • 10:00 PM",
+      "175 Av. du Président-Kennedy",
+      "From $28.47",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F652152079%2F199649717188%2F1%2Foriginal.20231202-170158?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C9000%2C4500&s=acb2684dce05a44e2e890dc8568924aa",
+      "https://www.eventbrite.ca/e/afrotonik-dance-party-tickets-768341910337?aff=ebdssbdestsearch"
+    ],
+    [
+      "Paint Nite: The Original Paint and Sip Party",
+      "Mon, Jan 8 •  7:00 PM",
+      "Peel Pub",
+      "From $39.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F657798609%2F292898063203%2F1%2Foriginal.20231213-040148?w=400&auto=format%2Ccompress&q=75&sharp=10&s=76dad1e634965b56c1552f2efa443805",
+      "https://www.eventbrite.com/e/paint-nite-the-original-paint-and-sip-party-tickets-757928152507?aff=ebdssbdestsearch"
+    ],
+    [
+      "Under the Mistletoe",
+      "Thu, Dec 28 •  7:00 PM",
+      "998 Rue Notre-Dame, Lachine, QC, Canada",
+      "From $118.59",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F636099469%2F1873919048593%2F1%2Foriginal.20231106-171631?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=196%2C19%2C1050%2C525&s=9a0dc0b28b9b84429bd09165ff372f37",
+      "https://www.eventbrite.ca/e/under-the-mistletoe-tickets-749409011527?aff=ebdssbdestsearch"
+    ],
+    [
+      "Exclusive Lounge Event",
+      "Fri, Dec 29 •  10:00 PM",
+      "Bar Pamplemousse, Saint Laurent Boulevard, Montreal, QC, Canada",
+      "From $36.60",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F649880669%2F345559228903%2F1%2Foriginal.20231128-221419?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=310%2C0%2C1264%2C632&s=68911e2d7adf9824cdbcd5fc0acc5833",
+      "https://www.eventbrite.ca/e/exclusive-lounge-event-tickets-768602569977?aff=ebdssbdestsearch"
+    ],
+    [
+      "Tuesday Night Comedy Jam ( Stand Up Comedy ) MTLCOMEDYCLUB.COM",
+      "Tuesday • 8:00 PM",
+      "McKibbin’s",
+      "From $13.18",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F589386529%2F227789289943%2F1%2Foriginal.20220413-011453?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C191%2C834%2C417&s=5634c816fea79694b5704fe15aeef4b2",
+      "https://www.eventbrite.ca/e/tuesday-night-comedy-jam-stand-up-comedy-mtlcomedyclubcom-tickets-712768368377?aff=ebdssbdestsearch"
+    ],
+    [
+      "AFRO PARTY (LADIES NIGHT)",
+      "Fri, Jan 12 •  10:00 PM",
+      "Le Ministère",
+      "Free",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F649966729%2F298332626705%2F1%2Foriginal.20231129-004502?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C258%2C1080%2C540&s=05792b2acbc69b2d37ce32e6a60d1f03",
+      "https://www.eventbrite.com/e/billets-afro-party-ladies-night-768718245967?aff=ebdssbdestsearch"
+    ],
+    [
+      "2nd Annual Quiz Master Brian Montréal Trivia Championships at Burgundy Lion",
+      "Sat, Jan 6 •  1:00 PM",
+      "Burgundy Lion",
+      "From $48.31",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F644398159%2F68244268153%2F1%2Foriginal.20221228-172040?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C601%2C1500%2C750&s=baf98ab4e8b39c4a42be066c1744afec",
+      "https://www.eventbrite.com/e/2nd-annual-quiz-master-brian-montreal-trivia-championships-at-burgundy-lion-tickets-761870464067?aff=ebdssbdestsearch"
+    ],
+    [
+      "New Year's Eve - Live English Stand Up Comedy Show ( 7pm-8:30pm )",
+      "Sun, Dec 31 •  7:00 PM",
+      "Montreal Comedy Club @ Deli Planet ( Inside Central Station )",
+      "From $27.96",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F614965939%2F227789289943%2F1%2Foriginal.20231006-172833?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C512%2C256&s=77ba30973853aab35d7a7943de9d3397",
+      "https://www.eventbrite.ca/e/new-years-eve-live-english-stand-up-comedy-show-7pm-830pm-tickets-714091335407?aff=ebdssbdestsearch"
+    ],
+    [
+      "KULTURE SATURDAY",
+      "Saturday • 11:00 PM + 15 more",
+      "Tropikàl",
+      "From $0.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F655126889%2F733265305903%2F1%2Foriginal.20231207-182654?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C540&s=6b4175e7298738c3c1bc9cdf797d7a75",
+      "https://www.eventbrite.ca/e/billets-kulture-saturday-749629320477?aff=ebdssbdestsearch"
+    ],
+    [
+      "Millionaire Invest Strategy By Deepak Kaltari",
+      "Saturday • 1:00 PM GMT-3",
+      "Saturday • 1:00 PM GMT-3",
+      "Free",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F658241719%2F1936217727933%2F1%2Foriginal.20231213-065832?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C32%2C1024%2C512&s=a2ace914b2ff7d741de97f9157ae58d2",
+      "https://www.eventbrite.com/e/millionaire-invest-strategy-by-deepak-kaltari-tickets-777273916207?aff=ebdssbdestsearch"
+    ],
+    [
+      "Start Your Own Trucking Company",
+      "Sat, Jan 13 •  1:00 PM  GMT-3",
+      "Sat, Jan 13 •  1:00 PM  GMT-3",
+      "From $75.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F649772939%2F1917257015563%2F1%2Foriginal.png?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=5d8977115ba4e46415d8a8721d1ab9fe",
+      "https://www.eventbrite.com/e/start-your-own-trucking-company-tickets-768588979327?aff=ebdssbdestsearch"
+    ],
+    [
+      "Montreal Comedy Shows ( NEW YEAR COMEDY ) at Comedy Club Montreal (Late)",
+      "Sun, Dec 31 •  9:00 PM",
+      "Deli Planet Resto-Bar inside Montreal's Gare Centrale (Central Station)",
+      "From $32.15",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F608035419%2F261342116066%2F1%2Foriginal.20230927-215135?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=15e909f220318eaa5a2f8ffd79be455d",
+      "https://www.eventbrite.ca/e/montreal-comedy-shows-new-year-comedy-at-comedy-club-montreal-late-tickets-727874431017?aff=ebdssbdestsearch"
+    ],
+    [
+      "Illusions The Drag Brunch Montreal - Drag Queen Brunch Show - Montreal",
+      "Sat, Dec 23 •  1:30 PM  + 56 more",
+      "Illusions the Drag Brunch Montreal",
+      "From $30.29",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F336785349%2F1082206847413%2F1%2Foriginal.20220806-001601?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=cf5eb42338a942efefa169c255e94ae4",
+      "https://www.eventbrite.com/e/illusions-the-drag-brunch-montreal-drag-queen-brunch-show-montreal-tickets-397449731847?aff=ebdssbdestsearch"
+    ],
+    [
+      "SINTONIA - XMAS FUNK EDITION - SATURDAY DECEMBER 23RD AT CLUB MUZIQUE",
+      "Sat, Dec 23 •  10:00 PM",
+      "Muzique",
+      "From $11.98",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F646168609%2F351478733395%2F1%2Foriginal.20231121-210822?h=512&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=42359c460c692e7f3e899f1512e683b3",
+      "https://www.eventbrite.ca/e/sintonia-xmas-funk-edition-saturday-december-23rd-at-club-muzique-tickets-764187053047?aff=ebdssbdestsearch"
+    ],
+    [
+      "CAPRICORN SZN",
+      "Sat, Jan 13 •  10:00 PM",
+      "Suite six62",
+      "From $24.89",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F633190749%2F1822776871903%2F1%2Foriginal.20231101-215811?h=512&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C255%2C1212%2C606&s=63ffd5131426fa793e989c16f761f3c2",
+      "https://www.eventbrite.ca/e/capricorn-szn-tickets-750002075397?aff=ebdssbdestsearch"
+    ],
+    [
+      "Dream Teams",
+      "Sat, Dec 30 •  6:30 PM",
+      "Impro Montréal / Montreal Improv",
+      "From $0.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F651321639%2F574778927101%2F1%2Foriginal.20231130-222649?h=512&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=e2b955008f323ed8c969e7aaba509663",
+      "https://www.eventbrite.ca/e/dream-teams-tickets-769938726457?aff=ebdssbdestsearch"
+    ],
+    [
+      "Booze N' Brush Next to Naked Sip n' Paint Montreal - Exotic Male Model",
+      "Sat, Dec 23 •  4:00 PM  + 193 more",
+      "Booze N' Brush Sip N' Paint Montreal",
+      "From $53.63",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F330543499%2F1082206847413%2F1%2Foriginal.20220805-162800?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=b770d932843da049e9a6121d717cca23",
+      "https://www.eventbrite.com/e/booze-n-brush-next-to-naked-sip-n-paint-montreal-exotic-male-model-tickets-397183284897?aff=ebdssbdestsearch"
+    ],
+    [
+      "Montréal Audiofest 2024:  Soirée de la Prohibition / Prohibition Night",
+      "Fri, Mar 22 •  8:00 PM",
+      "Hôtel Bonaventure, Rue De la Gauchetière Ouest, Montréal, QC, Canada",
+      "From $132.23",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F641629809%2F260227193862%2F1%2Foriginal.20231114-175325?h=512&w=400&auto=format%2Ccompress&q=75&sharp=10&s=71691174f38cb935a154f4a32f4a8893",
+      "https://www.eventbrite.ca/e/billets-montreal-audiofest-2024-soiree-de-la-prohibition-prohibition-night-759047520567?aff=ebdssbdestsearch"
+    ],
+    [
+      "Montreal Comedy Show ( Stand-Up Comedy ) Montreal Comedy Club",
+      "Saturday • 9:00 PM + 188 more",
+      "Deli Planet ( Inside Central Station )",
+      "From $19.04",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F590878009%2F227789289943%2F1%2Foriginal.20210619-184900?h=512&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C231%2C636%2C318&s=612d7d830621e494827a16252739fce3",
+      "https://www.eventbrite.ca/e/montreal-comedy-show-stand-up-comedy-montreal-comedy-club-tickets-714097072567?aff=ebdssbdestsearch"
+    ],
+    [
+      "Meet New People (20s - 30s) Montreal",
+      "Saturday • 10:00 PM",
+      "Muzique",
+      "From $0.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F365393699%2F554731422065%2F1%2Foriginal.20220221-050835?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C14%2C1406%2C703&s=439a51eec2f5a77e642c683cdc8b01b4",
+      "https://www.eventbrite.com/e/meet-new-people-20s-30s-montreal-tickets-430504850597?aff=ebdssbdestsearch"
+    ],
+    [
+      "MCGILL UNIVERSITY END OF SEMESTER  PARTY",
+      "Fri, Dec 22 •  10:00 PM",
+      "Jet Night Club",
+      "From $13.54",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F649913629%2F77837906803%2F1%2Foriginal.20231128-224133?h=512&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=83%2C8%2C880%2C440&s=b6b377d07ab1e017f819cd3269c9416a",
+      "https://www.eventbrite.ca/e/mcgill-university-end-of-semester-party-tickets-768691285327?aff=ebdssbdestsearch"
+    ],
+    [
+      "Montreal Comedy Shows ( NEW YEAR COMEDY ) at Comedy Club Montreal (Early)",
+      "Sun, Dec 31 •  7:00 PM",
+      "Deli Planet Resto-Bar inside Montreal's Gare Centrale (Central Station)",
+      "From $32.15",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F608035129%2F261342116066%2F1%2Foriginal.20230927-215104?h=512&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=b4608cba2523b6955ed7d73c734bf47d",
+      "https://www.eventbrite.ca/e/montreal-comedy-shows-new-year-comedy-at-comedy-club-montreal-early-tickets-727873127117?aff=ebdssbdestsearch"
+    ],
+    [
+      "Tuesday Night Comedy Jam ( Stand Up Comedy ) MTLCOMEDYCLUB.COM",
+      "Tue, Jan 16 •  8:00 PM",
+      "MTLCOMEDYCLUB @ MCKIBBIN'S",
+      "From $13.18",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F589392689%2F227789289943%2F1%2Foriginal.20220413-011453?h=512&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C191%2C834%2C417&s=e9ee81213530992ccb44802d5a62d844",
+      "https://www.eventbrite.ca/e/tuesday-night-comedy-jam-stand-up-comedy-mtlcomedyclubcom-tickets-712772982177?aff=ebdssbdestsearch"
+    ],
+    [
+      "Family Paint Party",
+      "Mon, Feb 19 •  11:00 AM",
+      "Cafe de Source",
+      "From $39.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F656880039%2F292898063203%2F1%2Foriginal.20231211-200315?h=512&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1000%2C500&s=d575d8c626be0f3215b0cce2150a2865",
+      "https://www.eventbrite.com/e/family-paint-party-tickets-775846095557?aff=ebdssbdestsearch"
+    ],
+    [
+      "DON B COMBER SATURDAY NIGHTS",
+      "Saturday • 10:00 PM + 77 more",
+      "Don B Comber",
+      "From $13.18",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F534615229%2F1011401485223%2F1%2Foriginal.20230613-013948?h=512&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C141%2C2258%2C1129&s=68a4c0d8a2eaa69a8689901cf6368656",
+      "https://www.eventbrite.com/e/don-b-comber-saturday-nights-tickets-657272990207?aff=ebdssbdestsearch"
+    ],
+    [
+      "CONCORDIA UNIVERSITY BURN THE BOOKS 2023",
+      "Fri, Dec 22 •  10:00 PM",
+      "Jet Night Club",
+      "From $13.54",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F649955189%2F77837906803%2F1%2Foriginal.20231129-002234?h=512&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C7%2C938%2C469&s=37974fe40a381882827834d4f7dcc744",
+      "https://www.eventbrite.ca/e/concordia-university-burn-the-books-2023-tickets-768711295177?aff=ebdssbdestsearch"
+    ],
+    [
+      "Traditional Mosaic Lamp Workshop",
+      "Sat, Jul 6 •  6:30 PM",
+      "Montreal Mosaic Art Studio",
+      "From $102.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F566383519%2F292898063203%2F1%2Foriginal.20230801-180240?h=512&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C4000%2C6000&s=463fbe3d6b3fa6c93f691ffac7eab5ee",
+      "https://www.eventbrite.com/e/traditional-mosaic-lamp-workshop-tickets-688647742937?aff=ebdssbdestsearch"
+    ],
+    [
+      "Nykaya's Xmas Birthday Bash",
+      "Saturday • 8:00 PM",
+      "BAHIA STUDIOS",
+      "From $22.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F636222139%2F1816574708553%2F1%2Foriginal.20231106-192443?h=512&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C448%2C1588%2C794&s=d25630d265a71b54fbc093eed7e117a1",
+      "https://www.eventbrite.com/e/nykayas-xmas-birthday-bash-tickets-753404271457?aff=ebdssbdestsearch"
+    ],
+    [
+      "NEW YEARS EVE 2024 THE GOLDEN BALL",
+      "Sun, Dec 31 •  9:00 PM",
+      "PANDORA SUPPERCLUB",
+      "From $80.49",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F653273279%2F1884475681343%2F1%2Foriginal.20231205-005627?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C869%2C1080%2C540&s=af4faeafd81869670d5ca6d76a74ba34",
+      "https://www.eventbrite.com/e/new-years-eve-2024-the-golden-ball-tickets-771936893027?aff=ebdssbdestsearch"
+    ],
+    [
+      "Hunk-O-Mania Male Strip Club Montreal |Male Revue| Male Strippers Montreal",
+      "Saturday • 8:00 PM + 195 more",
+      "Hunk-O-Mania Male Revue",
+      "From $47.79",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F336788509%2F1082206847413%2F1%2Foriginal.20220817-015309?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C217%2C3300%2C1650&s=d61d938e7c3b9c688d18c86dd9c185d0",
+      "https://www.eventbrite.com/e/hunk-o-mania-male-strip-club-montreal-male-revue-male-strippers-montreal-tickets-396685144947?aff=ebdssbdestsearch"
+    ],
+    [
+      "Roast Champ Montreal | 3rd Floor Comedy Club",
+      "Tomorrow • 9:00 PM",
       "3rd Floor Comedy Club",
+      "From $11.98",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F647783049%2F903074396733%2F1%2Foriginal.20231124-194528?h=512&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ea84f6914c0ebdfcdb95be1b8f8bea2d",
+      "https://www.eventbrite.ca/e/roast-champ-montreal-3rd-floor-comedy-club-tickets-765753568537?aff=ebdssbdestsearch"
+    ],
+    [
+      "Comedy Shows Montreal ( Friday 9 PM ) at Montreal Comedy Clubs in English",
+      "Tomorrow • 9:00 PM + 54 more",
+      "Deli Planet Resto-Bar inside Montreal's Gare Centrale (Central Station)",
+      "From $17.25",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F554837629%2F261342116066%2F1%2Foriginal.20230713-225423?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=54c48c378fd3c00f317414ff807f2c22",
+      "https://www.eventbrite.ca/e/comedy-shows-montreal-friday-9-pm-at-montreal-comedy-clubs-in-english-tickets-324258414647?aff=ebdssbdestsearch"
+    ],
+    [
+      "Global Tarraxo Festival - Montreal 3rd Edition",
+      "Fri, Feb 9 •  2:00 PM",
+      "Hôtel Zéro1",
+      "From $75.88",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F637390399%2F234633946482%2F1%2Foriginal.20231108-005507?w=443&auto=format%2Ccompress&q=75&sharp=10&s=3dfdc66d44ccc4b94cabd02863358e06",
+      "https://www.eventbrite.ca/e/global-tarraxo-festival-montreal-3rd-edition-tickets-545082224607?aff=ebdssbdestsearch"
+    ],
+    [
+      "Live English Stand Up Comedy In Montreal ( Stand Up Comedy ) MTLSERIES.COM",
+      "Tomorrow • 9:00 PM + 47 more",
+      "MONTREAL COMEDY CLUB AT Deli Planet ( INSIDE CENTRAL STATION )",
+      "From $16.93",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F383151729%2F441851794324%2F1%2Foriginal.20210714-023814?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C208%2C536%2C268&s=e3f9660a5b651b2c76298331130afd1f",
+      "https://www.eventbrite.com/e/live-english-stand-up-comedy-in-montreal-stand-up-comedy-mtlseriescom-tickets-456577895777?aff=ebdssbdestsearch"
+    ],
+    [
+      "Montréal Audiofest 2024:  La virée musicale des vins / Musical Wine Tour",
+      "Fri, Mar 22 •  8:00 PM",
+      "Hôtel Bonaventure, Rue De la Gauchetière Ouest, Montréal, QC, Canada",
+      "From $143.73",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F641616499%2F260227193862%2F1%2Foriginal.20231114-173723?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2400%2C1200&s=991e0970489fff40a92c324a108eff04",
+      "https://www.eventbrite.ca/e/billets-montreal-audiofest-2024-la-viree-musicale-des-vins-musical-wine-tour-759030890827?aff=ebdssbdestsearch"
+    ],
+    [
+      "François Massicotte 06 janvier ! 10$ de rabais pas billet pour Rona et Réno",
+      "Sat, Jan 6 •  8:00 PM",
+      "Centre multifonctionnel Francine-Gadbois",
+      "From $27.96",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650397989%2F136137053026%2F1%2Foriginal.20231129-172514?w=450&auto=format%2Ccompress&q=75&sharp=10&s=d8ab8df68e0008178a8ddea4cd5b6d83",
+      "https://www.eventbrite.ca/e/billets-francois-massicotte-06-janvier-10-de-rabais-pas-billet-pour-rona-et-reno-769101311727?aff=ebdssbdestsearch"
+    ],
+    [
+      "Tuesday Night Comedy Jam 2 ( Stand Up Comedy ) MTLCOMEDYCLUB.COM",
+      "Tue, Dec 26 •  8:00 PM",
+      "Brass Door Pub",
+      "From $13.18",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F656478079%2F227789289943%2F1%2Foriginal.20230814-222904?w=372&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C80%2C372%2C186&s=3fbc897a2fd6d9f5647dbfcc9ef1f8f5",
+      "https://www.eventbrite.ca/e/tuesday-night-comedy-jam-2-stand-up-comedy-mtlcomedyclubcom-tickets-775356561347?aff=ebdssbdestsearch"
+    ],
+    [
+      "Comedy Show Montreal ( Montreal English Comedy 8:30 ) Comedy Clubs Montreal",
+      "Today • 8:30 PM + 34 more",
+      "Deli Planet Resto-Bar inside Montreal's Gare Centrale (Central Station)",
+      "From $13.36",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F555318199%2F261342116066%2F1%2Foriginal.20230714-173102?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=da979e1fcddbc5dbbabe1a0abd6a5085",
+      "https://www.eventbrite.ca/e/comedy-show-montreal-montreal-english-comedy-830-comedy-clubs-montreal-tickets-471144545017?aff=ebdssbdestsearch"
+    ],
+    [
+      "Live Stand Up English Comedy Shows Montreal at Comedy Club Montreal (9 PM)",
+      "Saturday • 9:00 PM + 54 more",
+      "Deli Planet Resto-Bar inside Montreal's Gare Centrale (Central Station)",
+      "From $19.47",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F543214669%2F261342116066%2F1%2Foriginal.20230626-183759?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=dd5b46a1fc2542cad8bc6585f2145452",
+      "https://www.eventbrite.ca/e/live-stand-up-english-comedy-shows-montreal-at-comedy-club-montreal-9-pm-tickets-122823952749?aff=ebdssbdestsearch"
+    ],
+    [
+      "MCGILL UNIVERSITY BURN THE BOOKS 2023",
+      "Fri, Dec 22 •  10:00 PM",
+      "Jet Night Club",
+      "From $13.54",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F649955289%2F77837906803%2F1%2Foriginal.20231129-002247?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C5%2C938%2C469&s=4f2402b5c0a7eb657d7b43d7ef7d5bd9",
+      "https://www.eventbrite.ca/e/mcgill-university-burn-the-books-2023-tickets-768711305207?aff=ebdssbdestsearch"
+    ],
+    [
+      "COMEDY NIGHT AT CLUB ATWATER ( ENGLISH STAND-UP COMEDY ) MTLCOMEDYCLUB.COM",
+      "Fri, Jan 5 •  8:00 PM",
+      "Club Atwater",
+      "From $19.04",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F648972839%2F227789289943%2F1%2Foriginal.20231127-193246?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C152%2C564%2C282&s=48a4e7bb00e2a4417a7add500dc69951",
+      "https://www.eventbrite.ca/e/comedy-night-at-club-atwater-english-stand-up-comedy-mtlcomedyclubcom-tickets-767775686747?aff=ebdssbdestsearch"
+    ],
+    [
+      "Montreal Comedy Show ( Montreal Comedy ) at  Comedy Club Montreal (11 PM)",
+      "Saturday • 11:00 PM + 36 more",
+      "Deli Planet Resto-Bar inside Montreal's Gare Centrale (Central Station)",
+      "From $11.50",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F338781329%2F261342116066%2F1%2Foriginal.20220819-213159?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=6e75d04899d98632616474a59a6602f2",
+      "https://www.eventbrite.ca/e/montreal-comedy-show-montreal-comedy-at-comedy-club-montreal-11-pm-tickets-405439228647?aff=ebdssbdestsearch"
+    ],
+    [
+      "Red Velvet Burlesque Show Montreal's #1 Variety & Cabaret Show in Montreal",
+      "Wed, Dec 20 •  8:00 PM  + 280 more",
+      "Bar Taboo",
+      "From $47.79",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F330766909%2F1082206847413%2F1%2Foriginal.20220805-235636?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C800%2C400&s=6d336510a73f7d18db3353417321e637",
+      "https://www.eventbrite.com/e/red-velvet-burlesque-show-montreals-1-variety-cabaret-show-in-montreal-tickets-397483984297?aff=ebdssbdestsearch"
+    ],
+    [
+      "PARTY DE FIN DE SESSION",
+      "Wed, Dec 20 •  9:00 PM",
+      "Abreuvoir Bar et Terrasse",
+      "From $11.98",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F656913709%2F172007740392%2F1%2Foriginal.20231211-205202?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C904%2C1728%2C864&s=2d599340c5a10bb560558f13b9705511",
+      "https://www.eventbrite.ca/e/billets-party-de-fin-de-session-760935006087?aff=ebdssbdestsearch"
+    ],
+    [
+      "Comedy Montreal ( Comedy Show Montreal ) at Comedy Club Montreal (8:30)",
+      "Today • 8:30 PM + 54 more",
+      "Deli Planet Resto-Bar inside Montreal's Gare Centrale (Central Station)",
+      "From $13.36",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F543213359%2F261342116066%2F1%2Foriginal.20230626-183612?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=3825b04f8e38cea8531723badb5e58ee",
+      "https://www.eventbrite.ca/e/comedy-montreal-comedy-show-montreal-at-comedy-club-montreal-830-tickets-158294327595?aff=ebdssbdestsearch"
+    ],
+    [
+      "Comedy Show Montreal ( English Comedy Show at 8:30 ) Montreal Comedy Clubs",
+      "Today • 8:30 PM + 33 more",
+      "Deli Planet Resto-Bar inside Montreal's Gare Centrale (Central Station)",
+      "From $13.36",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F555317099%2F261342116066%2F1%2Foriginal.20230714-172854?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ae1757c1054d5246acc02bab095c2ed",
+      "https://www.eventbrite.ca/e/comedy-show-montreal-english-comedy-show-at-830-montreal-comedy-clubs-tickets-390769200197?aff=ebdssbdestsearch"
+    ],
+    [
+      "NYE",
+      "Sun, Dec 31 •  10:00 PM",
+      "Sherm",
+      "From $13.77",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F656858189%2F854760591013%2F1%2Foriginal.20231211-193458?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=11cef7eb905c74f64a270828770eec3d",
+      "https://www.eventbrite.ca/e/billets-nye-775828573147?aff=ebdssbdestsearch"
+    ],
+    [
+      "Maxim Martin, entre deux Shows ! 10$ de rabais par billet pour Rona et Réno",
+      "Fri, Jan 12 •  8:00 PM",
+      "Centre multifonctionnel Francine-Gadbois",
+      "From $27.96",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650416579%2F136137053026%2F1%2Foriginal.20231129-174757?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=32%2C0%2C1018%2C509&s=7c37905e86eda47a4600401006796fe1",
+      "https://www.eventbrite.ca/e/billets-maxim-martin-entre-deux-shows-10-de-rabais-par-billet-pour-rona-et-reno-769114029767?aff=ebdssbdestsearch"
+    ],
+    [
+      "Saturday Night Stand Up Comedy Show at The Montreal Comedy Club",
+      "Saturday • 9:00 PM + 59 more",
+      "Deli Planet",
+      "From $16.93",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F397088399%2F227789289943%2F1%2Foriginal.20210619-184900?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C231%2C636%2C318&s=52f545fb008ed714c46308fe2f8ce6df",
+      "https://www.eventbrite.ca/e/saturday-night-stand-up-comedy-show-at-the-montreal-comedy-club-tickets-472403149537?aff=ebdssbdestsearch"
+    ],
+    [
+      "Late Night Comedy ( 11 PM ) Comedy Show Montreal at Comedy Club Montreal",
+      "Saturday • 11:00 PM + 54 more",
+      "Deli Planet Resto-Bar inside Montreal's Gare Centrale (Central Station)",
+      "From $11.50",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F543214949%2F261342116066%2F1%2Foriginal.20230626-183821?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=b4d8554b5abd7642995c18df123ea66c",
+      "https://www.eventbrite.ca/e/late-night-comedy-11-pm-comedy-show-montreal-at-comedy-club-montreal-tickets-184944833977?aff=ebdssbdestsearch"
+    ],
+    [
+      "Merry Night Party",
+      "Sat, Dec 23 •  10:00 PM",
+      "TBA (To Be Announced)",
+      "From $27.96",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F651408269%2F1482256116143%2F1%2Foriginal.20231201-012928?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C543%2C1544%2C772&s=30e2e2cf9e9956e9190a444a6713e009",
+      "https://www.eventbrite.ca/e/merry-night-party-tickets-768738446387?aff=ebdssbdestsearch"
+    ],
+    [
+      "LATIN SATURDAY: SABADOS DE TOXICAS",
+      "Saturday • 9:00 PM + 2 more",
+      "Eden resto-bar",
+      "From $0.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F556977069%2F955747223493%2F1%2Foriginal.20230718-022311?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C1118%2C1170%2C585&s=cb9d2c320a6223a08a091833c2c2b23d",
+      "https://www.eventbrite.com/e/latin-saturday-sabados-de-toxicas-tickets-672661377287?aff=ebdssbdestsearch"
+    ],
+    [
+      "Executive Exchange Networking Cocktail (6th Edition)",
+      "Thu, Jan 18 •  6:00 PM",
+      "Downtown Montreal",
+      "From $86.03",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F645534619%2F1756642297953%2F1%2Foriginal.20231121-004633?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C27%2C1280%2C640&s=8cc654ad96a706b0985c1f7e5d0e7bc0",
+      "https://www.eventbrite.ca/e/executive-exchange-networking-cocktail-6th-edition-tickets-733977054127?aff=ebdssbdestsearch"
+    ],
+    [
+      "Stand Up Comedy Show ( Friday 11 pm ) at English Comedy Club Montreal",
+      "Tomorrow • 11:00 PM + 54 more",
+      "Deli Planet Resto-Bar inside Montreal's Gare Centrale (Central Station)",
+      "From $13.77",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F429391329%2F261342116066%2F1%2Foriginal.20230121-165929?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=bff1bf880aa03a26324d0e9d89f939a9",
+      "https://www.eventbrite.ca/e/stand-up-comedy-show-friday-11-pm-at-english-comedy-club-montreal-tickets-521179571127?aff=ebdssbdestsearch"
+    ],
+    [
+      "English Stand Up Comedy Show ( Friday 11 pm ) at a Montreal Comedy Club",
+      "Tomorrow • 11:00 PM + 54 more",
+      "Deli Planet Resto-Bar inside Montreal's Gare Centrale (Central Station)",
+      "From $13.77",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F429382149%2F261342116066%2F1%2Foriginal.20230121-163408?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=c7de76ee97c5b36444f52e3078c6d89d",
+      "https://www.eventbrite.ca/e/english-stand-up-comedy-show-friday-11-pm-at-a-montreal-comedy-club-tickets-521170183047?aff=ebdssbdestsearch"
+    ],
+    [
+      "Afro Mood",
+      "Today • 10:00 PM",
+      "3519 Boul. Saint-Laurent",
+      "Free",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F654959429%2F1377444988293%2F1%2Foriginal.20231207-143336?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=16%2C606%2C1048%2C524&s=1ca5b800a6db5f8f77489c3318b66a01",
+      "https://www.eventbrite.ca/e/billets-afro-mood-776591324557?aff=ebdssbdestsearch"
+    ],
+    [
+      "NOUVEL AN 2024 au BAR PALCO VERDUN",
+      "Sun, Dec 31 •  8:00 PM",
+      "Bar Palco",
+      "From $22.63",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F656851489%2F306188088697%2F1%2Foriginal.20231211-192535?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=14f42bd7f2e6c3e1d3e338a969237d09",
+      "https://www.eventbrite.ca/e/nouvel-an-2024-au-bar-palco-verdun-tickets-774485215127?aff=ebdssbdestsearch"
+    ],
+    [
+      "English Stand-Up Comedy Show",
+      "Tomorrow • 9:00 PM + 96 more",
+      "Deli Planet ( Inside Centrale Station )",
+      "From $19.04",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F618749309%2F227789289943%2F1%2Foriginal.20231012-031606?w=450&auto=format%2Ccompress&q=75&sharp=10&s=3807ff1a86bba8277a9402f4b6e58911",
+      "https://www.eventbrite.ca/e/english-stand-up-comedy-show-tickets-736907860247?aff=ebdssbdestsearch"
+    ],
+    [
+      "Montreal Comedy Show ( Live English Comedy 8:30 ) at a Montreal Comedy Club",
+      "Today • 8:30 PM + 33 more",
+      "Deli Planet Resto-Bar inside Montreal's Gare Centrale (Central Station)",
+      "From $13.36",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F555315779%2F261342116066%2F1%2Foriginal.20230714-172704?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=6ce0e87060d35be1a1fae054fc64482e",
+      "https://www.eventbrite.ca/e/montreal-comedy-show-live-english-comedy-830-at-a-montreal-comedy-club-tickets-390752329737?aff=ebdssbdestsearch"
+    ],
+    [
+      "Bollywood - New Years at Punjab Canteen",
+      "Sun, Dec 31 •  7:00 PM",
+      "5323 Chem. Queen Mary, Montréal, QC H3X 4B1, Canada",
+      "From $19.04",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F656818769%2F1934482344693%2F1%2Foriginal.20231211-183615?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C125%2C4000%2C2000&s=cb25192d35a8b9bb7f1137c262c4abe0",
+      "https://www.eventbrite.com/e/bollywood-new-years-at-punjab-canteen-tickets-775794932527?aff=ebdssbdestsearch"
+    ],
+    [
+      "Best of Saturdays After Dark Live Comedy Show | 11 PM | 3rd Floor Comedy",
+      "Saturday • 11:00 PM + 45 more",
+      "3rd Floor Comedy Club",
+      "From $11.98",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F633370939%2F903074396733%2F1%2Foriginal.20231102-034647?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C9000%2C4500&s=c88546fd581b499d0d2b3bfe048e065c",
+      "https://www.eventbrite.ca/e/best-of-saturdays-after-dark-live-comedy-show-11-pm-3rd-floor-comedy-tickets-750463997017?aff=ebdssbdestsearch"
+    ],
+    [
+      "New Years Eve Party",
+      "Sun, Dec 31 •  8:30 PM",
+      "5375 Chem. Queen Mary",
+      "From $49.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F653010569%2F1901308391243%2F1%2Foriginal.20231204-182714?w=400&auto=format%2Ccompress&q=75&sharp=10&s=e0dcd518793f34502f1c414775d1ea5f",
+      "https://www.eventbrite.com/e/new-years-eve-party-tickets-771734858737?aff=ebdssbdestsearch"
+    ],
+    [
+      "English Montreal Comedy Show ( Stand-Up Comedy ) COMEDYVILLE.COM 11 pm",
+      "Tomorrow • 11:00 PM + 54 more",
+      "Deli Planet Resto-Bar inside Montreal's Gare Centrale (Central Station)",
+      "From $13.77",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F429386359%2F261342116066%2F1%2Foriginal.20230121-164538?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=fcca79201296aad947f66df5d6da7813",
+      "https://www.eventbrite.ca/e/english-montreal-comedy-show-stand-up-comedy-comedyvillecom-11-pm-tickets-521175920207?aff=ebdssbdestsearch"
+    ],
+    [
+      "Night Slime Sketch Show 4",
+      "Sat, Jan 6 •  8:30 PM",
+      "Theatre VME / Variations Mile End",
+      "From $11.98",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F635262979%2F1445470194673%2F1%2Foriginal.20231104-234216?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=21ce88603f69e74bedfac857729f30cc",
+      "https://www.eventbrite.ca/e/night-slime-sketch-show-4-tickets-752398914407?aff=ebdssbdestsearch"
+    ],
+    [
+      "MIDNIGHT OASIS 5 - The Concert Series featuring NAILAH BLACKMAN & Friends..",
+      "Sat, Dec 30 •  10:00 PM",
+      "caribbean food factory",
+      "From $54.58",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F635316549%2F107078538393%2F1%2Foriginal.20231105-040842?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C867%2C2000%2C1000&s=088f2fd28b47abd79a8267426830f60c",
+      "https://www.eventbrite.ca/e/midnight-oasis-5-the-concert-series-featuring-nailah-blackman-friends-tickets-738922476017?aff=ebdssbdestsearch"
+    ],
+    [
+      "Magic Palace & Mirela's Holiday Party!",
+      "Tuesday • 6:00 PM",
+      "4134 Saint-Catherine St, Westmount, Quebec H3Z 2Y5, Canada",
+      "Free",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F651251239%2F1920466687083%2F1%2Foriginal.png?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=1d3d9e8ae2510d7d4d8a8543bece3905",
+      "https://www.eventbrite.com/e/magic-palace-mirelas-holiday-party-tickets-769878997807?aff=ebdssbdestsearch"
+    ],
+    [
+      "Comedy Showcase ( Stand-Up Comedy ) MTLCOMEDYCLUB.COM",
+      "Wed, Dec 27 •  8:00 PM",
+      "Montreal Comedy Club at Melrose",
+      "From $13.18",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F589870389%2F227789289943%2F1%2Foriginal.20220129-011733?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C676%2C338&s=8ed90392139609582e5169a780445fcf",
+      "https://www.eventbrite.ca/e/comedy-showcase-stand-up-comedy-mtlcomedyclubcom-tickets-713257792257?aff=ebdssbdestsearch"
+    ],
+    [
+      "Comedy In Montreal ( Stand Up Comedy ) MTLSERIES.COM",
+      "Wed, Dec 20 •  8:00 PM  + 75 more",
+      "Melrose Resto",
+      "From $11.98",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F646657549%2F441851794324%2F1%2Foriginal.20210714-025446?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C724%2C362&s=1849b54f2ad241f1113edca55319cf67",
+      "https://www.eventbrite.com/e/comedy-in-montreal-stand-up-comedy-mtlseriescom-tickets-764758201367?aff=ebdssbdestsearch"
+    ],
+    [
+      "Montreal Pottery and Wine Workshop - one time ceramics introduction class",
+      "Sunday • 1:00 PM",
+      "Atelier Potterae",
+      "From $106.77",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F643268169%2F1132766786773%2F1%2Foriginal.20231116-184542?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C3944%2C1972&s=6d4f8fb4182b267af71e27c8fc3c5e75",
+      "https://www.eventbrite.ca/e/montreal-pottery-and-wine-workshop-one-time-ceramics-introduction-class-tickets-547941637187?aff=ebdssbdestsearch"
+    ],
+    [
+      "Booze N' Brush Next to Naked Sip n' Paint Ottawa  - Exotic Male Model",
+      "Sat, Dec 23 •  4:00 PM  + 233 more",
+      "Booze N' Brush Sip N' Paint Ottawa",
+      "From $49.26",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F505165609%2F1082206847413%2F1%2Foriginal.20230502-004735?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=6d267485a92d6445d3c4a8c08791c54c",
+      "https://www.eventbrite.com/e/booze-n-brush-next-to-naked-sip-n-paint-ottawa-exotic-male-model-tickets-628848401497?aff=ebdssbdestsearch"
+    ],
+    [
+      "ART OF VIBE : Jaay Noir & Zack Sarkissian",
+      "Thu, Dec 21 •  9:00 PM",
+      "Turbo Haüs",
+      "From $22.63",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650274889%2F294384011536%2F1%2Foriginal.20231129-145635?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C56%2C1640%2C820&s=74ac8956c750925c17019615b498fefb",
+      "https://www.eventbrite.ca/e/art-of-vibe-jaay-noir-zack-sarkissian-tickets-766576610277?aff=ebdssbdestsearch"
+    ],
+    [
+      "[Alto/Fest] SWIPE TON ALTISTE #3 - \"Power Quartet\"",
+      "Sun, Feb 18 •  4:00 PM",
+      "397 Sainte-Catherine O",
+      "From $22.63",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F594889799%2F256856431545%2F1%2Foriginal.20230911-130121?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C15%2C1200%2C600&s=6a2d7fba1008cf999f632cb253ef4b64",
+      "https://www.eventbrite.ca/e/altofest-swipe-ton-altiste-3-power-quartet-tickets-715139209627?aff=ebdssbdestsearch"
+    ],
+    [
+      "Stand Up Comedy Show in English ( Saturday 11pm ) The Montreal Comedyville",
+      "Saturday • 11:00 PM + 36 more",
+      "Deli Planet Resto-Bar inside Montreal's Gare Centrale (Central Station)",
+      "From $11.50",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F338765369%2F261342116066%2F1%2Foriginal.20220819-205632?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=369202db69037e61d9bea2ed8611896a",
+      "https://www.eventbrite.ca/e/stand-up-comedy-show-in-english-saturday-11pm-the-montreal-comedyville-tickets-405424544727?aff=ebdssbdestsearch"
+    ],
+    [
+      "Multicultural Montreal  Singles Mixer 24 - 49    Intimate Social",
+      "Wed, Jan 10 •  7:00 PM",
+      "Rockaberry",
+      "From $77.69",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F625487169%2F172835840800%2F1%2Foriginal.20231021-065513?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C89%2C1070%2C535&s=1a67f046f0f9faf42bf4ee1b1ca2e94f",
+      "https://www.eventbrite.ca/e/multicultural-montreal-singles-mixer-24-49-intimate-social-tickets-699356753877?aff=ebdssbdestsearch"
+    ],
+    [
+      "English Stand Up Comedy Show ( Monday 8pm ) at the Montreal Comedy Club",
+      "Monday • 8:00 PM + 84 more",
+      "McKibbin’s",
       "From $6.32",
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F645381799%2F903074396733%2F1%2Foriginal.20231120-210219?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=969cf5471acfa7b28560c4ae478059c9",
-      "https://www.eventbrite.ca/e/open-mic-live-3rd-floor-comedy-club-tickets-383144083267?aff=ebdssbdestsearch"
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F170905559%2F227789289943%2F1%2Foriginal.20211020-202618?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2048%2C1024&s=3ef7b6daa5b04f81caf347146e5443df",
+      "https://www.eventbrite.ca/e/english-stand-up-comedy-show-monday-8pm-at-the-montreal-comedy-club-tickets-195363085247?aff=ebdssbdestsearch"
+    ],
+    [
+      "Montreal Comedy Show ( Stand-Up Comedy ) Montreal Comedy Club",
+      "Tomorrow • 9:00 PM + 19 more",
+      "Deli Planet",
+      "From $16.93",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F291718039%2F227789289943%2F1%2Foriginal.20210619-183817?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C204%2C536%2C268&s=971f70e6c926ffc6764bc9fb101bb667",
+      "https://www.eventbrite.ca/e/montreal-comedy-show-stand-up-comedy-montreal-comedy-club-tickets-349193415907?aff=ebdssbdestsearch"
+    ],
+    [
+      "Stand-up Comedy Show ( 11 PM ) Live Shows Montreal at Comedy Club Montreal",
+      "Tomorrow • 11:00 PM + 54 more",
+      "Deli Planet Resto-Bar inside Montreal's Gare Centrale (Central Station)",
+      "From $13.36",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F543214319%2F261342116066%2F1%2Foriginal.20230626-183735?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=5c72271f122fdfe2f67141514a354f75",
+      "https://www.eventbrite.ca/e/stand-up-comedy-show-11-pm-live-shows-montreal-at-comedy-club-montreal-tickets-218817126917?aff=ebdssbdestsearch"
+    ],
+    [
+      "Soirée Casino",
+      "Fri, Apr 12 •  7:00 PM",
+      "Hôtel Manoir D'Youville",
+      "From $45.99",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650950109%2F509531947119%2F1%2Foriginal.20231130-134116?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=0213fc4f8e6aa475efadad3847a26f53",
+      "https://www.eventbrite.ca/e/billets-soiree-casino-765252890997?aff=ebdssbdestsearch"
+    ],
+    [
+      "SOLSTICE— Putterman, Schürmer, Loftus",
+      "Thu, Dec 21 •  7:30 PM",
+      "Salle Joseph-Rouleau",
+      "From $54.58",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F493060799%2F331930440553%2F1%2Foriginal.20230414-195120?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=104%2C0%2C1500%2C750&s=b33f2c06056acb8ceedd42041456dcd4",
+      "https://www.eventbrite.ca/e/solstice-putterman-schurmer-loftus-tickets-617253781677?aff=ebdssbdestsearch"
+    ],
+    [
+      "Stand Up Comedy Show ( Thursday 8:30pm ) at The Montreal Comedy Club",
+      "Today • 8:30 PM + 98 more",
+      "Deli Planet ( Inside Central Station )",
+      "From $16.93",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F171415449%2F227789289943%2F1%2Foriginal.20211021-145204?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C264%2C670%2C335&s=48e7e8c0b0c9bcbe087a36de0e102aeb",
+      "https://www.eventbrite.ca/e/stand-up-comedy-show-thursday-830pm-at-the-montreal-comedy-club-tickets-195933601677?aff=ebdssbdestsearch"
+    ],
+    [
+      "Best Montreal Comedy Show ( Stand-Up Comedy ) Montreal Comedy Club",
+      "Tomorrow • 9:00 PM + 84 more",
+      "Deli Planet",
+      "From $19.04",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F513892879%2F227789289943%2F1%2Foriginal.20210619-183817?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C204%2C536%2C268&s=70effdcf76788b267378de402b17ef95",
+      "https://www.eventbrite.ca/e/best-montreal-comedy-show-stand-up-comedy-montreal-comedy-club-tickets-635573065147?aff=ebdssbdestsearch"
+    ],
+    [
+      "Montréal Audiofest 2024",
+      "Fri, Mar 22 •  11:00 AM",
+      "Hôtel Bonaventure, Rue De la Gauchetière Ouest, Montréal, QC, Canada",
+      "From $0.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F641514309%2F260227193862%2F1%2Foriginal.20231114-154532?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=668b0f02d82fd5ab720de484951b844d",
+      "https://www.eventbrite.ca/e/billets-montreal-audiofest-2024-758958434107?aff=ebdssbdestsearch"
+    ],
+    [
+      "Montreal Comedy Show ( Stand-Up Comedy ) Montreal Comedy Club",
+      "Tomorrow • 9:00 PM + 49 more",
+      "Montreal Comedy Club  @ DELI PLANET ( INSIDE CENTRAL STATION )",
+      "From $16.93",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F395128949%2F227789289943%2F1%2Foriginal.20210619-183817?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C204%2C536%2C268&s=e26acd791c2da303b8807398b2aaf461",
+      "https://www.eventbrite.ca/e/montreal-comedy-show-stand-up-comedy-montreal-comedy-club-tickets-469714437527?aff=ebdssbdestsearch"
+    ],
+    [
+      "Salon de L'Éveil Boucherville DIMANCHE",
+      "Sun, Mar 17 •  9:00 AM",
+      "Hotel Mortagne",
+      "From $21.51",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F594002929%2F145115516383%2F1%2Foriginal.20230909-140939?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C7%2C940%2C470&s=b2f4e58688914ef696d8b8b9a730d3c1",
+      "https://www.eventbrite.ca/e/billets-salon-de-leveil-boucherville-dimanche-716502437077?aff=ebdssbdestsearch"
+    ],
+    [
+      "English Stand Up Comedy Show ( Thursday 830pm ) at the Montreal Comedy Club",
+      "Today • 8:30 PM + 76 more",
+      "Deli Planet ( Inside Central Station )",
+      "From $16.93",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F171905829%2F227789289943%2F1%2Foriginal.20211022-055201?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C261%2C666%2C333&s=954b42f5e0c82ad87fabda5881d2c7ee",
+      "https://www.eventbrite.ca/e/english-stand-up-comedy-show-thursday-830pm-at-the-montreal-comedy-club-tickets-196342594987?aff=ebdssbdestsearch"
+    ],
+    [
+      "Stand Up Comedy Show ( Friday 9pm ) at The Montreal Comedy Club",
+      "Tomorrow • 9:00 PM + 76 more",
+      "Deli Planet",
+      "From $16.93",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F171404469%2F227789289943%2F1%2Foriginal.20211021-143703?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C78%2C536%2C268&s=45701c557426db76ba671f69f53e6cdf",
+      "https://www.eventbrite.ca/e/stand-up-comedy-show-friday-9pm-at-the-montreal-comedy-club-tickets-195924113297?aff=ebdssbdestsearch"
+    ],
+    [
+      "Tuesday Night Stand-Up Comedy Show in Downtown Montreal - MTLCOMEDYCLUB.COM",
+      "Tuesday • 8:00 PM + 119 more",
+      "Brass Door Pub",
+      "From $11.62",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F397071089%2F227789289943%2F1%2Foriginal.20220420-042205?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C209%2C834%2C417&s=01f135bc166df8d08969be91f11a523a",
+      "https://www.eventbrite.ca/e/tuesday-night-stand-up-comedy-show-in-downtown-montreal-mtlcomedyclubcom-tickets-472380441617?aff=ebdssbdestsearch"
+    ],
+    [
+      "House Dance Class With Drey",
+      "Tuesday • 7:00 PM",
+      "The spot",
+      "From $12.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F544133689%2F696495828743%2F1%2Foriginal.20230627-191107?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C46%2C1150%2C575&s=cdac5f16f9b9652a5bd1a981b2b1ff6c",
+      "https://www.eventbrite.com/e/house-dance-class-with-drey-tickets-667786386057?aff=ebdssbdestsearch"
+    ],
+    [
+      "360° | Spectacle de Street Dance UEZ | 19H",
+      "Sunday • 7:00 PM",
+      "Salle Sylvain-Lelièvre, Collège de Maisonneuve",
+      "From $0.00",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F640872269%2F311326125944%2F1%2Foriginal.20231113-193329?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C1204%2C3300%2C1650&s=0433268eb4bb3ba03801c858b27d720a",
+      "https://www.eventbrite.ca/e/360-spectacle-de-street-dance-uez-19h-tickets-758027951007?aff=ebdssbdestsearch"
+    ],
+    [
+      "English Comedy Show (Wednesday 8:00pm ) at The Montreal Comedy Club",
+      "Wed, Dec 20 •  8:00 PM  + 128 more",
+      "Montreal Comedy Club at Melrose",
+      "From $13.18",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F653625559%2F227789289943%2F1%2Foriginal.20211021-150736?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C676%2C338&s=47d64aba183286554e8bdcb9bad8cfa4",
+      "https://www.eventbrite.ca/e/english-comedy-show-wednesday-800pm-at-the-montreal-comedy-club-tickets-772279999267?aff=ebdssbdestsearch"
+    ],
+    [
+      "Party de Noël du Chalet Kent et Philo Boxe",
+      "Thu, Dec 21 •  5:00 PM",
+      "3785 Rue Jean-Talon Ouest, Montréal, QC, Canada",
+      "Free",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F653863149%2F391136071057%2F1%2Foriginal.jpg?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=37cf21cd3ceb1862ee0c7e23e4b89ac1",
+      "https://www.eventbrite.com/e/party-de-noel-du-chalet-kent-et-philo-boxe-tickets-772459596447?aff=ebdssbdestsearch"
     ]
   ]
 }
